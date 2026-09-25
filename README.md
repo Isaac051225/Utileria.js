@@ -23,20 +23,22 @@ if (validarCorreo(correoInput)) {
     console.log("Correo inválido.");
 }
 
- ### 2. Validación de Contraseña Segura
+2. Validación de Contraseña Segura
+JavaScript
 let password = "Password*123";
 if (validarPassword(password)) {
     console.log("La contraseña cumple con los requisitos de seguridad");
 }
 
 3. Validación de Teléfono (Función Personalizada)
+JavaScript
 let telefono = "5512345678";
 if (validarTelefono(telefono)) {
     console.log("El teléfono es válido (10 dígitos)");
 }
 
 4. Cálculo de Edad por Fecha de Nacimiento
+JavaScript
 let fechaNacimiento = "2000-05-15";
 let edad = calcularEdad(fechaNacimiento);
 console.log("La edad calculada es: " + edad + " años");
-
