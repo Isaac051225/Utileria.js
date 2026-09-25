@@ -10,18 +10,20 @@ Hacer validaciones a mano en cada página web es pesado y repetitivo. Cada vez q
 
 ## Instalación
 Para utilizar la librería en cualquier archivo HTML de tu proyecto, simplemente descargar el archivo utilieria.js y agregalo mediante una etiqueta de script.
+```javascript
 <script src="js/utileria.js"></script>
+```
 
 ## Uso con ejemplos de código
 ### 1. ValidarCorreo(correo)
 ```javascript
-// Valida el formato de un correo electrónico.
+Valida el formato de un correo electrónico.
 console.log(validarCorreo("usuario@gmail.com")); // true
 console.log(validarCorreo("usuario@hotmail"));    // false
 ```
 
 ### 2.SoloLetras(texto)
-//Valida que un texto contenga solo letras y acentos.
+Valida que un texto contenga solo letras y acentos.
 ```javascript
 console.log(soloLetras("Isaac Emmanuel")); // true
 console.log(soloLetras("Isaac123"));       // false
