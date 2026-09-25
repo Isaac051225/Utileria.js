@@ -76,10 +76,16 @@ console.log(limpiarEspacios("   Hola    Mundo   ")); // "Hola Mundo"
 ### Formulario
 ![Formulario_Index](img/img2.png)
 
+### Registro Fallido
 ![Registro_fallido](img/img3.png)
 
+### Registro exitoso
 ![Registro_exitoso](img/img4.png)
 
+### Login exitoso
 ![Login_exitoso](img/img5.png)
+
+
+## Video demo
 
 
