@@ -70,8 +70,10 @@ console.log(limpiarEspacios("   Hola    Mundo   ")); // "Hola Mundo"
 ```
 
 ## Capturas de pantalla
+### Consola
 ![Consola](img/img1.png)
 
+### Formulario
 ![Formulario_Index](img/img2.png)
 
 ![Registro_fallido](img/img3.png)
