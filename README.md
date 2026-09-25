@@ -68,3 +68,14 @@ Limpia espacios extra en los extremos y duplicados intermedios.
 ```javascript
 console.log(limpiarEspacios("   Hola    Mundo   ")); // "Hola Mundo"
 ```
+
+## Capturas de pantalla
+![Consola](img/img1.png)
+
+![Formulario_Index](img/img2.png)
+
+![Registro_exitoso](img/img4.png)
+
+![Login_exitoso](img/img5.png)
+
+
